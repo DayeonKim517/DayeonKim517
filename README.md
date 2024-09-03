@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [mbti-test](https://www.16personalities.com/ko/%EA%B2%B0%EA%B3%BC/entj-t/x/la8axki7w?utm_source=results-turbulent-commander&utm_medium=email&utm_campaign=ko&utm_content=view-results)
 
-- 💬 Ask me about **effort and solidity**
+- 💬 Ask me about **effort and diligence**
+
+- 📫 How to reach me **datto0116@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 

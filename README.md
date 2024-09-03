@@ -1,9 +1,7 @@
-## Hi there 👋
+### About me
 
-<!--
-**DayeonKim517/DayeonKim517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="left"> Hi 👋, This is Dayeon Kim, a developer who codes dreams.</h1> 
+<h3 align="left">I am working with the mission of change the world a better than yesterday!</h3> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

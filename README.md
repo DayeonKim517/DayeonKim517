@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Dayeon Kim, a developer who codes dreams.</h1>
-<h3 align="center">I am workin with the mission of change the world a better than yesterday.</h3>
+<h3 align="center">I work with a mission to change to a better person than yesterday.</h3>
 
 ### Welcome to my page!
 

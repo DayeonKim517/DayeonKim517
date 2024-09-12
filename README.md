@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Dayeon Kim, a developer who codes dreams.</h1>
 <h3 align="center">I am workin with the mission of change the world a better than yesterday.</h3>
 
+### Welcome to my page!
+
 - 🔭 I’m currently working on [mbti-test](https://www.16personalities.com/ko/%EA%B2%B0%EA%B3%BC/entj-t/x/la8axki7w?utm_source=results-turbulent-commander&utm_medium=email&utm_campaign=ko&utm_content=view-results)
 
 - 💬 Ask me about **effort and diligence**

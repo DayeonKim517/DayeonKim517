@@ -21,7 +21,5 @@
 
 ## stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayeonkim517)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayeonKim517)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DayeonKim517)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DayeonKim517&hide=contribs,prs&show_icons=true&theme=Whitegray)
+
 

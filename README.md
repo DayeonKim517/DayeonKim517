@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dayeon Kim, a developer who codes dreams.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Dayeon+Kim%2C+a+developer+who+codes+dreams.)](https://git.io/typing-svg)
 <h3 align="center">I work with a mission to change to a better person than yesterday.</h3>
 
 ### Welcome to my page!
